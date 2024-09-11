@@ -1,0 +1,3 @@
+C:/Users/ppono/endgame-mar-c/engame_menushka_inGame/cmake-build-debug/CMakeFiles/endgame.dir
+C:/Users/ppono/endgame-mar-c/engame_menushka_inGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ppono/endgame-mar-c/engame_menushka_inGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
